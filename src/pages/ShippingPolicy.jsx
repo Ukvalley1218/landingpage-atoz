@@ -8,7 +8,7 @@ const ShippingPolicy = () => {
       </h1>
 
       <p className="mb-4">
-        <strong>Owner Name:</strong> Dr. Mamata Dhiraj Jain
+        <strong>Owner Name:</strong> Mamata Dhiraj Jain
       </p>
 
       <p className="mb-4">

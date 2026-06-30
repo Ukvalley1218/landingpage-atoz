@@ -94,7 +94,7 @@ const TermsAndConditions = () => {
         </h2>
         <p>
           All content, designs, trademarks, software, images, and intellectual property on 
-          the Website are owned by Dr. Mamata Dhiraj Jain or licensed appropriately. Users 
+          the Website are owned by Mamata Dhiraj Jain or licensed appropriately. Users 
           may not reproduce, distribute, modify, or exploit any materials without written 
           permission.
         </p>
@@ -274,7 +274,7 @@ const TermsAndConditions = () => {
           Contact Information
         </h2>
         <p>
-          <strong>Owner: Dr. Mamata Dhiraj Jain</strong><br />
+          <strong>Owner: Mamata Dhiraj Jain</strong><br />
           Email: <a href="mailto:support@1XL.com" className="text-blue-600 hover:underline">
           support@1XL.com
         </a><br />

@@ -20,7 +20,7 @@ const ReturnPolicy=()=> {
     {/* ---------------- Organisation Details ---------------- */}
     <section className="prose prose-md max-w-none mb-6">
       <p>
-        <strong>Owner Name:</strong> Dr. Mamata Dhiraj Jain
+        <strong>Owner Name:</strong> Mamata Dhiraj Jain
       </p>
       <p>
         <strong>Email ID:</strong>{" "}

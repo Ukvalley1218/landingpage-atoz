@@ -163,7 +163,7 @@
             const sessionId = searchParams.get("session_id");
 
             const res = await fetch(
-              "https://testingdrmamatajain.valleyhoster.com/api/verifyPayment_t3",
+              "https://drmamatajain.valleyhoster.com/api/verifyPayment_t5",
               {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },

@@ -1509,9 +1509,8 @@ const ref = sessionStorage.getItem("reference") || "direct";
                     </div>
                 </button>
             </div>
-            <div className="min-h-screen py-12 md:py-14 lg:py-16 px-4">
+            {/* <div className="min-h-screen py-12 md:py-14 lg:py-16 px-4">
                 <div className="max-w-7xl mx-auto">
-                    {/* Header Section */}
                     <div className="text-center mb-12 space-y-4">
                         <h2 className="text-3xl md:text-4xl lg:text-[44px] font-bold text-[#123050] leading-tight">
                             Join the Growing Community of Smart Investors Who are
@@ -1532,7 +1531,6 @@ const ref = sessionStorage.getItem("reference") || "direct";
                         </div>
                     </div>
 
-                    {/* Single Composite Image */}
                     <div className="mb-0 lg:mb-12 overflow-hidden shadow-2xl">
                         <img loading="lazy"
                             src="/books/atoz/images/imge.webp"
@@ -1543,10 +1541,10 @@ const ref = sessionStorage.getItem("reference") || "direct";
 
 
                 </div>
-            </div>
+            </div> */}
 
 
-            <div id='faqs' className="lg:min-h-screen bg-gradient-to-b from-[#123050] to-[#1B497A] from-0% to-100% py-12 sm:py-14 md:py-16 lg:py-20 px-4 sm:px-6 lg:px-8">
+            <div id='faqs' className="lg:min-h-screen bg-gradient-to-b from-[#123050] to-[#1B497A] from-0% to-100% py-12 sm:py-14 xl:mt-5 md:py-16 lg:py-24 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-5xl mx-auto">
                     {/* Header */}
                     <h3 style={{fontFamily: 'Coustard'}} className="text-2xl sm:text-3xl md:text-4xl lg:text-[45px]  font-bold text-white text-center mb-8 sm:mb-10 md:mb-12 lg:mb-14 px-2 leading-tight">

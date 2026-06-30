@@ -14,7 +14,7 @@ function CookiePolicy() {
 
     {/* ---------------- Organisation Details ---------------- */}
     <section className="mb-8">
-      <p><strong>Owner Name:</strong> Dr. Mamata Dhiraj Jain</p>
+      <p><strong>Owner Name:</strong> Mamata Dhiraj Jain</p>
       <p>
         <strong>Website:</strong>{" "}
         <a href="https://DrMamataJain.com" target="_blank" rel="noreferrer" className="text-blue-600 hover:underline">
