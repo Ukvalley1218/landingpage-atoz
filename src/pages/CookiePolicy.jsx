@@ -14,11 +14,11 @@ function CookiePolicy() {
 
     {/* ---------------- Organisation Details ---------------- */}
     <section className="mb-8">
-      <p><strong>Owner Name:</strong> Dr. Mamata Dhiraj Jain</p>
+      <p><strong>Owner Name:</strong> Mamata Dhiraj Jain</p>
       <p>
         <strong>Website:</strong>{" "}
         <a href="https://DrMamataJain.com" target="_blank" rel="noreferrer" className="text-blue-600 hover:underline">
-          DrMamataJain.com
+          MamataJain.com
         </a>
       </p>
       <p>
@@ -39,7 +39,7 @@ function CookiePolicy() {
     <section className="mb-8">
       <h2 className="text-2xl font-semibold mb-2">1. Introduction</h2>
       <p>
-        This Cookie Policy explains how DrMamataJain.com uses cookies and similar tracking 
+        This Cookie Policy explains how MamataJain.com uses cookies and similar tracking 
         technologies to improve your browsing experience, analyse website usage, and provide 
         personalised content. By using our website, you consent to the use of cookies in 
         accordance with this policy. If you do not wish to accept cookies, please modify your 
@@ -176,7 +176,7 @@ function CookiePolicy() {
       </p>
 
       <p className="mt-4">
-        © {new Date().getFullYear()} DrMamataJain.com. All Rights Reserved.
+        © {new Date().getFullYear()} MamataJain.com. All Rights Reserved.
       </p>
     </footer>
 

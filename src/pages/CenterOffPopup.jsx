@@ -102,7 +102,7 @@ export default function CenterOffPopup() {
         </button>
 
         <h2 style={title}>The A To Z Of Dubai Real Estate Book</h2>
-        <p style={author}>By <strong>Dr. Mamata Jain</strong></p>
+        <p style={author}>By <strong>Mamata Jain</strong></p>
 
         <img src="/books/atoz/images/coverpage.png" alt="The Growth PlayBook" style={bookImage} />
 

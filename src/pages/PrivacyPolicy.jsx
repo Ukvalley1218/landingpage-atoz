@@ -20,7 +20,7 @@ const PrivacyPolicy=()=> {
       </h2>
       <div className="text-gray-700 space-y-1">
         <p>
-          <strong>Owner Name:</strong> Dr. Mamata Dhiraj Jain
+          <strong>Owner Name:</strong> Mamata Dhiraj Jain
         </p>
 
         <p>
@@ -38,7 +38,7 @@ const PrivacyPolicy=()=> {
             rel="noreferrer"
             className="text-blue-600 hover:underline"
           >
-            DrMamataJain.com
+            MamataJain.com
           </a>
         </p>
 
@@ -60,7 +60,7 @@ const PrivacyPolicy=()=> {
     <section className="mb-6">
       <h2 className="text-xl font-semibold text-gray-800 mb-2">Introduction</h2>
       <p className="text-gray-700">
-        DrMamataJain.com values your privacy and is committed to protecting your personal data. 
+        MamataJain.com values your privacy and is committed to protecting your personal data. 
         This Privacy Policy explains how we collect, use, share, and safeguard information when you 
         use our website and services, including SaaS products, online courses, events, podcasts, travel 
         bookings, and real estate services.

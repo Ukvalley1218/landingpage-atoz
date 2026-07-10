@@ -175,7 +175,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             title: "Wisdom You Can Trust",
-            description: "Authored by Dr. Mamata Dhiraj Jain, a leader, mentor, and real estate expert."
+            description: "Authored by Mamata Dhiraj Jain, a leader, mentor, and real estate expert."
         }
     ];
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -208,7 +208,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
     const testimonialsData = [
         {
             id: 1,
-            text: `"As a first time investor in Dubai, I was looking for a resource that could offer more than just facts and figures. The A to Z of Dubai Real Estate transformed my approach to the market. Dr. Mamata Jain’s ability to break down complex topics and present them with real-world examples has been invaluable. This book doesn’t just talk about investments; it empowers you with the mindset needed to succeed. It’s a must-have for anyone serious about the Dubai real estate market."`,
+            text: `"As a first time investor in Dubai, I was looking for a resource that could offer more than just facts and figures. The A to Z of Dubai Real Estate transformed my approach to the market. Mamata Jain’s ability to break down complex topics and present them with real-world examples has been invaluable. This book doesn’t just talk about investments; it empowers you with the mindset needed to succeed. It’s a must-have for anyone serious about the Dubai real estate market."`,
             name: 'Rakesh Mehta',
             title: 'Real Estate Investor, UAE',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -216,7 +216,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             id: 2,
-            text: `"I’ve been running a business in Dubai for years, but I never truly understood the intricacies of the real estate market until I read this book. Dr. Mamata Dhiraj Jain has an incredible way of making tough concepts seem simple and accessible. The actionable insights and step-by-step strategies she provides helped me navigate the competitive Dubai property scene and make informed decisions. This book is more than just a guide; it’s a real game-changer for business owners in Dubai."`,
+            text: `"I’ve been running a business in Dubai for years, but I never truly understood the intricacies of the real estate market until I read this book. Mamata Dhiraj Jain has an incredible way of making tough concepts seem simple and accessible. The actionable insights and step-by-step strategies she provides helped me navigate the competitive Dubai property scene and make informed decisions. This book is more than just a guide; it’s a real game-changer for business owners in Dubai."`,
             name: 'Sara Al Mansouri',
             title: 'Business Owner, Dubai',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -224,7 +224,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             id: 3,
-            text: `"As an international investor, I needed something that would help me understand the dynamics of the Dubai property market. This book does exactly that. Dr. Mamata Jain bridges the gap between theoretical knowledge and practical execution. The clear explanations, paired with real-life case studies, made this an invaluable resource. Whether you're a seasoned investor or new to the Dubai market, The A to Z of Dubai Real Estate offers the insights you need to make confident investment decisions."`,
+            text: `"As an international investor, I needed something that would help me understand the dynamics of the Dubai property market. This book does exactly that. Mamata Jain bridges the gap between theoretical knowledge and practical execution. The clear explanations, paired with real-life case studies, made this an invaluable resource. Whether you're a seasoned investor or new to the Dubai market, The A to Z of Dubai Real Estate offers the insights you need to make confident investment decisions."`,
             name: 'Jonathan Reed',
             title: 'Global Investor, London',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -232,7 +232,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             id: 4,
-            text: `"Reading The A to Z of Dubai Real Estate felt like having Dr. Mamata Jain as a mentor by my side throughout the journey. Each chapter not only provided in-depth knowledge but also offered personal insights from Dr. Mamata Jain’s years of experience in the industry. Her advice is pragmatic, grounded in real-world applications, and incredibly valuable for anyone looking to make smart property decisions in Dubai. This book is more than just a read; it’s a powerful tool for those serious about success in real estate."`,
+            text: `"Reading The A to Z of Dubai Real Estate felt like having Mamata Jain as a mentor by my side throughout the journey. Each chapter not only provided in-depth knowledge but also offered personal insights from Mamata Jain’s years of experience in the industry. Her advice is pragmatic, grounded in real-world applications, and incredibly valuable for anyone looking to make smart property decisions in Dubai. This book is more than just a read; it’s a powerful tool for those serious about success in real estate."`,
             name: 'Priya Khanna',
             title: 'Reader Review, South Dubai',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -240,7 +240,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             id: 5,
-            text: `"The A to Z of Dubai Real Estate is more than just a book; it’s a blueprint for understanding the complex landscape of real estate in the UAE. Dr. Mamata Jain has meticulously covered everything from policies and regulations to investment strategies. What I love most is how this book merges theory with practical advice, making it the perfect guide for both investors and professionals in the industry. A must-read for anyone navigating the real estate sector in the UAE."`,
+            text: `"The A to Z of Dubai Real Estate is more than just a book; it’s a blueprint for understanding the complex landscape of real estate in the UAE. Mamata Jain has meticulously covered everything from policies and regulations to investment strategies. What I love most is how this book merges theory with practical advice, making it the perfect guide for both investors and professionals in the industry. A must-read for anyone navigating the real estate sector in the UAE."`,
             name: 'Omar Rahman',
             title: 'Industry Expert, South Dubai',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -248,7 +248,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             id: 6,
-            text: `"Having spent over two decades in real estate, I’ve seen a lot of market trends and investment advice. But The A to Z of Dubai Real Estate stands out as a top resource for understanding the UAE’s property market. Dr. Mamata Jain offers real-world strategies that are not only practical but also based on a deep understanding of the market. She brings clarity to the complexities of the Dubai property market, making it an invaluable tool for any serious investor."`,
+            text: `"Having spent over two decades in real estate, I’ve seen a lot of market trends and investment advice. But The A to Z of Dubai Real Estate stands out as a top resource for understanding the UAE’s property market. Mamata Jain offers real-world strategies that are not only practical but also based on a deep understanding of the market. She brings clarity to the complexities of the Dubai property market, making it an invaluable tool for any serious investor."`,
             name: 'Khalid Hussain',
             title: 'Property Developer, Dubai',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -256,7 +256,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             id: 7,
-            text: `"As a real estate consultant, I recommend The A to Z of Dubai Real Estate to every client who wants to get ahead in Dubai's property market. Dr. Mamata Jain provides a thorough understanding of the market’s evolution, current trends, and future predictions. Her insights are sharp and relevant, offering valuable strategies for both new and seasoned investors. This book doesn’t just explain the market; it equips you to succeed in it."`,
+            text: `"As a real estate consultant, I recommend The A to Z of Dubai Real Estate to every client who wants to get ahead in Dubai's property market. Mamata Jain provides a thorough understanding of the market’s evolution, current trends, and future predictions. Her insights are sharp and relevant, offering valuable strategies for both new and seasoned investors. This book doesn’t just explain the market; it equips you to succeed in it."`,
             name: ' Nadia Sheikh',
             title: 'Real Estate Consultant, UAE',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -264,7 +264,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             id: 8,
-            text: `"Coming from a completely different market, I was unsure how to approach Dubai’s real estate opportunities. The A to Z of Dubai Real Estate has been a game changer. Dr. Mamata Jain breaks down the cultural, financial, and legal aspects of investing in Dubai, making it easy for international investors like me to understand and act. The book is both informative and actionable a must read for anyone who wants to build wealth through Dubai’s booming real estate market."`,
+            text: `"Coming from a completely different market, I was unsure how to approach Dubai’s real estate opportunities. The A to Z of Dubai Real Estate has been a game changer. Mamata Jain breaks down the cultural, financial, and legal aspects of investing in Dubai, making it easy for international investors like me to understand and act. The book is both informative and actionable a must read for anyone who wants to build wealth through Dubai’s booming real estate market."`,
             name: 'Aaron Lim',
             title: 'Investor, Singapore',
             imageSrc: "https://api.builder.io/api/v1/image/assets/TEMP/cec11eecdd3e08f07ccbbc687b637356574c0fa8?width=440",
@@ -312,7 +312,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
         },
         {
             question: "Why should I trust this author?",
-            answer: "Dr. Mamata Dhiraj Jain is a visionary leader in Dubai’s real estate market, known for her sustainable, tech-driven projects. As the Managing Director of 1XL, she has earned recognition for her expertise and innovation. A TEDx speaker, she has received prestigious awards such as the Iconic Power Couple of the UAE and the ET Indo Global Leader Award 2025. With a PhD in FDI and Property Markets, she blends academic excellence with real-world impact."
+            answer: "Mamata Dhiraj Jain is a visionary leader in Dubai’s real estate market, known for her sustainable, tech-driven projects. As the Managing Director of 1XL, she has earned recognition for her expertise and innovation. A TEDx speaker, she has received prestigious awards such as the Iconic Power Couple of the UAE and the ET Indo Global Leader Award 2025. With a PhD in FDI and Property Markets, she blends academic excellence with real-world impact."
         }
     ];
 
@@ -632,7 +632,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
                                     textUnderlineOffset: '4px',
                                 }}
                             >
-                                Dr. Mamata Dhiraj Jain
+                                Mamata Dhiraj Jain
                             </h3>
 
                             {/* Bio Description */}
@@ -644,7 +644,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
                                     fontWeight: 400,
                                 }}
                             >
-                                She is a visionary author, businesswoman, speaker and philanthropist, recognised for her pioneering work in Dubai’s real estate market. As the Managing Director of <span className="font-nunito">1XL</span>, she leads sustainable, technology-driven projects. Her journey from humble beginnings to a prominent leader in the competitive Dubai market reflects her resilience, entrepreneurial spirit, and dedication to innovation. A TEDx Speaker, Dr. Mamata has been honoured with several prestigious awards, including the Iconic Power Couple of the UAE by India Today Group, the NewsX Shakti Award 2025, and the ET Indo Global Leader Award 2025.
+                                She is a visionary author, businesswoman, speaker and philanthropist, recognised for her pioneering work in Dubai’s real estate market. As the Managing Director of <span className="font-nunito">1XL</span>, she leads sustainable, technology-driven projects. Her journey from humble beginnings to a prominent leader in the competitive Dubai market reflects her resilience, entrepreneurial spirit, and dedication to innovation. A TEDx Speaker, Mamata has been honoured with several prestigious awards, including the Iconic Power Couple of the UAE by India Today Group, the NewsX Shakti Award 2025, and the ET Indo Global Leader Award 2025.
 
                             </p>
                         </motion.div>
@@ -726,7 +726,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
                                 }}
                             >
                                 <p>
-                                    Dr. Mamata Dhiraj Jain has been recognised for her academic
+                                    Mamata Dhiraj Jain has been recognised for her academic
                                     excellence and pioneering innovations in real estate. She earned her{' '}
                                     <span className="font-bold bg-clip-text text-transparent bg-gradient-to-t from-[#FFE08A] to-[#FFD700]">
                                         PhD in 2025
@@ -1042,7 +1042,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
                                 6. Real-Life Guidance That Works
                             </h4>
                             <p className="text-gray-200 text-base text-justify">
-                                Throughout the book, Dr. Mamata shares examples and practical insights
+                                Throughout the book, Mamata shares examples and practical insights
                                 that make even complex ideas easy to understand. Whether you’re a
                                 first time buyer, investor or aspiring professional, this book equips
                                 you with the tools to succeed.
@@ -1477,7 +1477,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
                                 <div className="pt-2 sm:pt-4">
                                     <p className="text-white">Sincerely,</p>
                                     <p className="text-yellow-400 font-bold text-lg sm:text-xl mt-1">
-                                        Dr. Mamata Dhiraj Jain
+                                         Mamata Dhiraj Jain
                                     </p>
                                     <p className="text-white text-sm">Managing Director, 1XL</p>
                                 </div>
@@ -1874,7 +1874,7 @@ const ref = sessionStorage.getItem("reference") || "direct";
   rel="noopener noreferrer"
   className="cursor-pointer text-gray-300 hover:text-red-600 transition-colors duration-300"
 >
-  Dr. Mamata Dhiraj Jain.
+  Mamata Dhiraj Jain.
 </a> All Rights Reserved.
                     </p>
 
